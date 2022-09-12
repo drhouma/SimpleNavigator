@@ -19,4 +19,4 @@ jmadie
   4. *Задача коммивояжера*  __src/algorithms/ants_colony/*__, __src/algorithms/travelling_salesman_problem.cpp__
   5. *Алгоритм дейкстры для поиска пути между двумя вершинами* __src/algorithms/dijkstra_algorithm.cpp__
 
-Для удобства также был написан пользовательский интерфейс, для компиляции написан makefile (в src)
+Для удобства также был написан консольный пользовательский интерфейс, для компиляции написан makefile (в src)
